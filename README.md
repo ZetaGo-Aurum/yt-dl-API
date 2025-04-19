@@ -44,8 +44,8 @@ API sederhana untuk scraping data YouTube (Video, Komentar, Playlist, Info Chann
     ```
 2.  **Clone Repository:**
     ```bash
-    git clone <url-repo-anda>
-    cd <nama-folder-repo>
+    git clone https://github.com/ZetaGo-Aurum/yt-dl-API.git
+    cd yt-dl-API
     ```
 3.  **Install Node Modules:**
     ```bash
