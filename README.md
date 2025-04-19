@@ -19,8 +19,8 @@ API sederhana untuk scraping data YouTube (Video, Komentar, Playlist, Info Chann
 1.  **Prasyarat:** Akun Vercel (gratis), Git, Node.js & npm terinstall di lokal.
 2.  **Clone Repository:**
     ```bash
-    git clone <url-repo-anda>
-    cd <nama-folder-repo>
+    git clone https://github.com/ZetaGo-Aurum/yt-dl-API.git
+    cd yt-dl-API
     ```
 3.  **Letakkan file:** Pastikan file `server.js`, `package.json`, dan `vercel.json` ada di root project Anda.
 4.  **Install Vercel CLI (opsional tapi membantu):**
